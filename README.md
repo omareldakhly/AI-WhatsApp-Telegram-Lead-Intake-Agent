@@ -17,8 +17,7 @@ This project helps businesses manage incoming customer messages, qualify leads a
 
 ### Telegram Workflow
 
-![Telegram Workflow](assets/workflow-telegram.png)
-
+![Telegram Workflow](assets/workflow-telegram.png.png)
 ### WhatsApp Business Cloud Structure
 
 ![WhatsApp Structure](assets/workflow-whatsapp-structure.png)
