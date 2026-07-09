@@ -5,7 +5,35 @@ An AI-powered lead intake automation system built with Make.com.
 This project helps businesses manage incoming customer messages, qualify leads automatically, store lead data, remember conversation context, and notify the business owner when a lead is ready for follow-up.
 
 ## Project Overview
+## Project Screenshots
 
+### Project Cover
+
+![Project Cover](assets/project-cover.png)
+
+### Workflow Architecture
+
+![Architecture Diagram](assets/architecture-diagram.png)
+
+### Telegram Workflow
+
+![Telegram Workflow](assets/workflow-telegram.png)
+
+### WhatsApp Business Cloud Structure
+
+![WhatsApp Structure](assets/workflow-whatsapp-structure.png)
+
+### Lead Tracker in Google Sheets
+
+![Google Sheets Lead Tracker](assets/google-sheets-lead-tracker.png)
+
+### Telegram Lead Conversation
+
+![Telegram Conversation](assets/telegram-conversation.png)
+
+### Hot Lead Alert
+
+![Hot Lead Alert](assets/hot-lead-alert.png)
 The system receives customer messages, analyzes them using a Make AI Agent, asks smart follow-up questions, saves structured lead data into Google Sheets, updates conversation memory, and sends instant alerts when a lead becomes a Hot Lead.
 
 The workflow is demonstrated using Telegram and is structured to support WhatsApp Business Cloud when a business phone number is available.
